@@ -23,7 +23,7 @@ zhihu_username: longsoft
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 本站记录我生活之旅的沿途风景！
+description_footer: 缘起我在人群中看见你，缘散我看见你在人群中。！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -36,8 +36,8 @@ SOHUCS_shortname: 3dfree
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 3d314335269f21bc2e77269adea02b0a
-google_analytics_id: G-5SSG7P7EN9 # google 分析追踪id
+baidu_tongji_id: #3d314335269f21bc2e77269adea02b0a
+google_analytics_id: #G-5SSG7P7EN9 # google 分析追踪id
 
 # Build settings
 markdown: kramdown
