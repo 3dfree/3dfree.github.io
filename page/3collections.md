@@ -35,8 +35,6 @@ type: page
 
     有 API 可用。
 
-* [新浪微博图床 Chrome扩展](https://github.com/Suxiaogang/WeiboPicBed)
-
 * [Unix 时间戳 Unix timestamp](http://tool.chinaz.com/Tools/unixtime.aspx)
 
 - [在线正则表达式匹配](https://regex101.com/)
