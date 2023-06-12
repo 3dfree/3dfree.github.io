@@ -25,7 +25,7 @@ author: DragnFly
 
 ## 安装方法
 
-1、下载[华为电脑管家自动安装器压缩包](https://pan.baidu.com/s/10lXCT3HGEnxWN1dRR7IxLA?pwd=92cb)，压缩包内容如下：
+1、下载[华为电脑管家自动安装器压缩包](https://pan.baidu.com/s/1nGJrQZM3VckWBbeOQkQfrw?pwd=67tp)，压缩包内容如下：
 
 ![](https://pic1.zhimg.com/v2-d6189e65983743f2c3225f7eea53456c_b.png)
 
