@@ -23,4 +23,6 @@ www.downloadly.ir
 
 ## 下载链接
 
+[先进入 downloadlynet.ir 主页](https://downloadlynet.ir/2020/13/3622/03/kms-tools/18/)
+
 [Download KMS VL ALL AIO v49.0](https://dl3.downloadly.ir/Files/Software/KMS_VL_ALL_AIO_v49.0_Downloadly.ir.rar) (Updated on February 26, 2023)
