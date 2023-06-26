@@ -75,9 +75,11 @@ Activate the software using the Keygen file in the Crack folder.
 -   Small footprint in memory
 -   And much more ...
 
-![](https://www.faststone.org/Images/ScreenRecorder.gif) ![](https://www.faststone.org/Images/FSCAnnotation.gif)    
+![](https://www.faststone.org/Images/ScreenRecorder.gif)
 
-**History**
+![](https://www.faststone.org/Images/FSCAnnotation.gif)    
+
+## History
 
    **Version 10.0** (May 09, 2023)
 
