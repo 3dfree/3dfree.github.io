@@ -15,7 +15,7 @@ author: DragnFly
 
 **FastStone Capture** is a powerful, lightweight, yet full-featured screen capture tool and screen video recorder. It allows you to easily capture and annotate anything on the screen including windows, objects, menus, full screen, rectangular / freehand / fixed regions as well as scrolling windows / web pages. It also allows you to record all screen activities including onscreen changes, speech from microphone, audio from speakers, mouse movements and clicks into highly compressed video files. You can choose to send captures to editor, file, clipboard, printer, email, OneNote / Word / Excel /  PowerPoint document or upload them to your website. Editing tools include annotating (texts, arrowed lines, highlights), resizing, cropping, sharpening, watermarking, applying edge effects and many more. Other features include image scanning, global hotkeys, automatic filename generation, support for external editors, a color picker, a screen magnifier, a screen crosshair and a screen ruler. 
 
-[![](https://www.faststone.org/Images/FSCapture.gif)](https://www.faststone.org/Images/FSCapture.gif) 
+![](https://www.faststone.org/Images/FSCapture.gif)
 
 FastStone Capture saves images in BMP, GIF, JPEG, PCX, PNG, TGA, TIFF, FSC and PDF formats. Built-in screen recorder saves videos in MP4 and WMV formats.
 
@@ -75,9 +75,8 @@ Activate the software using the Keygen file in the Crack folder.
 -   Small footprint in memory
 -   And much more ...
 
-[ScreenRecorder](https://www.faststone.org/Images/ScreenRecorder.gif)
-[FSCAnnotation](https://www.faststone.org/Images/FSCAnnotation.gif)
 ![](https://www.faststone.org/Images/ScreenRecorder.gif)
+
 ![](https://www.faststone.org/Images/FSCAnnotation.gif)    
 
 ## History
@@ -95,4 +94,3 @@ Activate the software using the Keygen file in the Crack folder.
 -   Added "**Acquire Images from Scanner**" to built-in **editor**  
     
 -   Made other minor improvements and bug fixes
-  
