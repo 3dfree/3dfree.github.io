@@ -13,7 +13,7 @@ author: DragnFly
 
 ## [FastGithub](https://github.com/dotnetcore/FastGithub)
 
-### 1 写在前面G
+### 1 写在前面
 * **fastgithub不具备“翻墙”功能,也没有相关的计划**
 * **fastgithub不支持Windows7等已被发行方停止支持的操作系统，并且也不会主动提供支持**
 * **fastgithub不能为您的游戏加速**
