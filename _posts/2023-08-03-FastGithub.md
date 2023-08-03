@@ -11,7 +11,7 @@ author: DragnFly
 * content
 {:toc}
 
-## FastGithub
+## [FastGithub](https://github.com/dotnetcore/FastGithub)
 
 ### 1 写在前面
 * **fastgithub不具备“翻墙”功能,也没有相关的计划**
