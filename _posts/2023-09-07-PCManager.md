@@ -15,7 +15,7 @@ author: DragnFly
 
 ## 二、空降猫咪bilibili安装教程 [bilibili](https://www.bilibili.com/video/BV1Z5411d73y?t=61.9)
 
-## 三、安装器 [百度网盘](链接:https://pan.baidu.com/s/1xWSjUpbffvzm7iePN64GNQ?pwd=ned9 提取码:ned9 复制这段内容后打开百度网盘手机App，操作更方便哦)
+## 三、安装器 [百度网盘](https://pan.baidu.com/s/1xWSjUpbffvzm7iePN64GNQ?pwd=ned9)
 
 ## 四、安装说明
 
@@ -28,3 +28,7 @@ author: DragnFly
 3 、安装成功后安装器小功能全部点一遍
 
 4 、重启，如有蓝屏，进安全模式删除hwos2开头的文件
+
+5、pc和华为终端同时开启蓝牙和wifi，wifi连接同一无线网络，或同时开启都不连任何网络
+
+6、如连接异常，打开华为手机端设置-应用和服务-应用管理-华为分享，清除缓存，删除数据
