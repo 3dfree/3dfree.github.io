@@ -13,7 +13,7 @@ author: DragnFly
 
 ## 一、华为官方网站 下载[华为电脑管家](https://consumer.huawei.com/cn/support/pc-manager/)
 
-## 二、空降猫咪bilibili安装教程 [bilibili](https://www.bilibili.com/video/BV1Z5411d73y/?spm_id_from=333.999.0.0)
+## 二、空降猫咪bilibili安装教程 [bilibili](https://www.bilibili.com/video/BV1Z5411d73y?t=61.9)
 
 ## 三、安装器 [百度网盘](链接:https://pan.baidu.com/s/1xWSjUpbffvzm7iePN64GNQ?pwd=ned9 提取码:ned9 复制这段内容后打开百度网盘手机App，操作更方便哦)
 
