@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Windows系统版本更改工具「HEU KMS Activator」"
+title:  "Windows版本更改工具「HEU KMS Activator」"
 date:   2023-09-07 15：16
 categories: Windows Crack
 tags: KMS
-excerpt: 可将windows家庭版更改成专业版
+excerpt: 可将windows家庭版更改成专业版。
 author: DragnFly
 ---
 
@@ -13,6 +13,7 @@ author: DragnFly
 
 ## 如何使用
 
+- Change Windows version
 - Run as admin
 - Select other
 
