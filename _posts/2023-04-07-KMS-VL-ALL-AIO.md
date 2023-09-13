@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "KMS VL ALL AIO v49.0"
+title:  "KMS VL ALL AIO"
 date:   2023-04-07 9：09
 categories: Windows Crack
 tags: KMS
@@ -25,4 +25,4 @@ www.downloadly.ir
 
 [先进入 downloadlynet.ir 主页](https://downloadlynet.ir/2020/13/3622/03/kms-tools/18/)
 
-[Download KMS VL ALL AIO v49.0](https://dl3.downloadly.ir/Files/Software/KMS_VL_ALL_AIO_v49.0_Downloadly.ir.rar) (Updated on February 26, 2023)
+[Download KMS VL ALL AIO](https://dl3.downloadly.ir/Files/Software/KMS_VL_ALL_AIO_v50.0_Downloadly.ir.rar) (Updated on September 10, 2023)
