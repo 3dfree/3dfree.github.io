@@ -23,7 +23,7 @@ type: page
 
 ## 友情链接
 
-[Downloadly](https://downloadlynet.ir/) \| [ APKPure](https://www.apkpure.com/) \| [不蒜子](http://ibruce.info/2015/04/04/busuanzi/)
+[Downloadly](https://downloadlynet.ir/) \| [ APKPure](https://www.apkpure.com/) \| [不蒜子](http://ibruce.info/2015/04/04/busuanzi/) \| [下歌吧](https://xiageba.liumingye.cn/)
 
 ## Comments
 
